@@ -1,0 +1,52 @@
+body
+{
+  font-size: 40pt;
+}
+#header {
+  height: 150px;
+  width: 100%;
+}
+#menu {
+  width: 800px;
+  height: 200px;
+  background-color: #999999;
+  position: absolute;
+}
+tbody {
+  width: 100%;
+  height: 100%;
+}
+td {
+  background-color:#FFFFFF;  
+}
+#wrapper {
+  width: 1000px;
+  height: 1000px;
+}
+#welcome {
+  width: 800px;
+  height: 600px;
+  position: relative;
+  background-color:Black;
+}
+#image {
+  width: 50%;
+  height: 100%;
+  display: block;
+  background-color: green;
+  float: left;
+}
+#text {
+  width: 50%;
+  height: 50%;
+  background-color: Red;
+  display: block;
+  float: right;
+}
+#update {
+  width:50%;
+  height: 50%;
+  background-color: yellow;
+  display: block;
+  float: right;
+}
