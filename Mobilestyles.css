@@ -1,0 +1,54 @@
+
+  body
+{
+  
+}
+#header {
+  height: 15%;
+  width: 100%;
+  background-color: Red;
+}
+#menu {
+  width: 80%;
+  height: 20%;
+  background-color: GreenYellow;
+}
+tbody {
+  width: 100%;
+  height: 100%;
+}
+td {
+  background-color:#FFFFFF;  
+}
+#wrapper {
+  width: 100%;
+  height: 100%;
+}
+#welcome {
+  width: 80%;
+  height: 60%;
+  position: relative;
+  background-color: Black;
+  display: block;
+}
+#image {
+  width: 50%;
+  height: 100%;
+  display: block;
+  background-color: green;
+  float: left;
+}
+#text {
+  width: 50%;
+  height: 50%;
+  background-color: Red;
+  display: block;
+  float: right;
+}
+#update {
+  width:50%;
+  height: 50%;
+  background-color: yellow;
+  display: block;
+  float: right;
+}
